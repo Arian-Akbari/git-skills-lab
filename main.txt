@@ -1,3 +1,4 @@
 Line 1 : Initial
 Line2 : Feature A change
 Line 2 : Main change
+Different conflict line
